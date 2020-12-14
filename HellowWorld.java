@@ -1,4 +1,6 @@
 public void class hello(){
-	aaaaaaaaaaa
-	bbbbbbbbbbbbb
+	public static void main(String[] agrs){
+		system.out.println("Hello world");
+		system.out.println("Ha ha");
+	}
 }
